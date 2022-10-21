@@ -1,57 +1,36 @@
-[22:46:05] [ServerMain/INFO]: Building unoptimized datafixer
-[22:46:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:46:06] [ServerMain/INFO]: Loaded 7 recipes
-[22:46:06] [ServerMain/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
-[22:46:06] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
-[22:46:06] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
-[22:46:08] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[22:46:08] [Server thread/INFO]: Loading properties
-[22:46:08] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
-[22:46:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:46:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:46:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
-[22:46:08] [Server thread/INFO]: Default game type: SURVIVAL
-[22:46:08] [Server thread/INFO]: Generating keypair
-[22:46:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:46:08] [Server thread/INFO]: Using default channel type
-[22:46:08] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[22:46:08] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[22:46:09] [Server thread/INFO]: [Back] Loading Back v1.1
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18
-[22:46:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:46:09] [Server thread/INFO]: Preparing level "world"
-[22:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:46:09] [Server thread/INFO]: Time elapsed: 72 ms
-[22:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:46:09] [Server thread/INFO]: Time elapsed: 22 ms
-[22:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:46:09] [Server thread/INFO]: Time elapsed: 22 ms
-[22:46:09] [Server thread/INFO]: [Back] Enabling Back v1.1
-[22:46:09] [Server thread/INFO]: -----------------------------
-[22:46:09] [Server thread/INFO]: Back Plugin Enabled!
-[22:46:09] [Server thread/INFO]: Plugin develloped by GFelberg
-[22:46:09] [Server thread/INFO]: -----------------------------
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[22:46:09] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[22:46:09] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[22:46:10] [Server thread/INFO]: Running delayed init tasks
-[22:46:10] [Server thread/INFO]: Done (1.833s)! For help, type "help"
-[22:46:10] [Server thread/INFO]: Timings Reset
-[22:46:11] [User Authenticator #0/INFO]: UUID of player LarsDeLars is b4a7ca28-64f9-4d4e-bfee-453404f7523a
-[22:46:12] [Server thread/INFO]: LarsDeLars joined the game
-[22:46:12] [Server thread/INFO]: LarsDeLars[/127.0.0.1:49991] logged in with entity id 185 at ([world]-89.5, 67.0, 9.5)
-[22:46:15] [Server thread/INFO]: LarsDeLars issued server command: /back
-[22:46:25] [Server thread/INFO]: LarsDeLars issued server command: /tp ~ 150 ~
-[22:46:25] [Server thread/INFO]: [LarsDeLars: Teleported LarsDeLars to -92.378998, 150.000000, 18.313075]
-[22:46:25] [Server thread/WARN]: LarsDeLars moved too quickly! 0.0,84.0,0.0
-[22:46:25] [Server thread/WARN]: LarsDeLars moved too quickly! 0.0,84.0,0.0
-[22:46:25] [Server thread/WARN]: LarsDeLars moved too quickly! 0.0,84.0,0.0
-[22:46:28] [Server thread/INFO]: LarsDeLars fell from a high place
-[22:46:31] [Server thread/INFO]: LarsDeLars issued server command: /back
-[22:46:31] [Server thread/WARN]: LarsDeLars moved too quickly! -8.000239303498276,-1.0,24.823007067536764
-[22:46:33] [Server thread/INFO]: LarsDeLars issued server command: /back
-[22:46:36] [Server thread/INFO]: LarsDeLars issued server command: /back
-[22:46:39] [Server thread/INFO]: LarsDeLars issued server command: /back
+[22:55:56] [ServerMain/INFO]: Building unoptimized datafixer
+[22:55:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:55:57] [ServerMain/INFO]: Loaded 7 recipes
+[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[22:55:59] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[22:55:59] [Server thread/INFO]: Loading properties
+[22:55:59] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
+[22:55:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:55:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:55:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[22:55:59] [Server thread/INFO]: Default game type: SURVIVAL
+[22:55:59] [Server thread/INFO]: Generating keypair
+[22:55:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:55:59] [Server thread/INFO]: Using default channel type
+[22:56:00] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[22:56:00] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[22:56:00] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18
+[22:56:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:56:00] [Server thread/INFO]: Preparing level "world"
+[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:56:01] [Server thread/INFO]: Time elapsed: 59 ms
+[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:56:01] [Server thread/INFO]: Time elapsed: 23 ms
+[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:56:01] [Server thread/INFO]: Time elapsed: 18 ms
+[22:56:01] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18
+[22:56:01] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[22:56:01] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[22:56:01] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[22:56:01] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[22:56:01] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[22:56:01] [Server thread/INFO]: Running delayed init tasks
+[22:56:01] [Server thread/INFO]: Done (2.049s)! For help, type "help"
+[22:56:01] [Server thread/INFO]: Timings Reset
