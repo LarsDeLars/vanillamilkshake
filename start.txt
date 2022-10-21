@@ -1,0 +1,2 @@
+cd Documents/Projecten/vanillamilkshake 
+java -Xms2G -Xmx2G -jar paper.jar

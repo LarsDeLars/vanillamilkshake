@@ -1,21 +1,57 @@
-[21:44:12] [ServerMain/INFO]: Building unoptimized datafixer
-[21:44:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:44:12] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:44:13] [ServerMain/INFO]: Loaded 7 recipes
-[21:44:15] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[21:44:15] [Server thread/INFO]: Loading properties
-[21:44:15] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
-[21:44:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:44:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:44:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
-[21:44:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:44:15] [Server thread/INFO]: Generating keypair
-[21:44:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:44:15] [Server thread/INFO]: Using default channel type
-[21:44:15] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[21:44:15] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[21:44:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:44:15] [Server thread/INFO]: Preparing level "world"
-[21:44:25] [Thread-0/INFO]: Stopping main thread (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
-[21:44:25] [Thread-0/INFO]: Stopping server
-[21:44:25] [Thread-0/INFO]: Saving players
+[22:17:00] [ServerMain/INFO]: Building unoptimized datafixer
+[22:17:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:17:01] [ServerMain/INFO]: Found new data pack file/more mob heads v2.10.1, loading it automatically
+[22:17:01] [ServerMain/INFO]: Found new data pack file/player head drops v1.1.3, loading it automatically
+[22:17:01] [ServerMain/INFO]: Loaded 7 recipes
+[22:17:02] [ServerMain/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[22:17:02] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[22:17:02] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[22:17:03] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[22:17:03] [Server thread/INFO]: Loading properties
+[22:17:03] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
+[22:17:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:17:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:17:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[22:17:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:17:03] [Server thread/INFO]: Generating keypair
+[22:17:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:17:04] [Server thread/INFO]: Using default channel type
+[22:17:04] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[22:17:04] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[22:17:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:17:04] [Server thread/INFO]: Preparing level "world"
+[22:17:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:17:04] [Server thread/INFO]: Time elapsed: 58 ms
+[22:17:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:17:04] [Server thread/INFO]: Time elapsed: 15 ms
+[22:17:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:17:04] [Server thread/INFO]: Time elapsed: 28 ms
+[22:17:04] [Server thread/INFO]: Running delayed init tasks
+[22:17:04] [Server thread/INFO]: Done (1.057s)! For help, type "help"
+[22:17:04] [Server thread/INFO]: Timings Reset
+[22:17:06] [User Authenticator #0/INFO]: UUID of player LarsDeLars is b4a7ca28-64f9-4d4e-bfee-453404f7523a
+[22:17:06] [Server thread/INFO]: LarsDeLars joined the game
+[22:17:06] [Server thread/INFO]: LarsDeLars[/127.0.0.1:49746] logged in with entity id 332 at ([world]-56.422331406647416, 90.83286679746179, 167.16731519129655)
+[22:17:21] [Server thread/INFO]: LarsDeLars issued server command: /enchant LarsDeLars minecraft:looting 5
+[22:17:23] [Server thread/INFO]: LarsDeLars issued server command: /enchant LarsDeLars minecraft:looting 3
+[22:17:23] [Server thread/INFO]: [LarsDeLars: Applied enchantment Looting III to LarsDeLars's item]
+[22:17:45] [Server thread/INFO]: LarsDeLars issued server command: /give @p minecraft:diamond_sword{Enchantments:[{id:"minecraft:sharpness",lvl:20}]} 1
+[22:17:45] [Server thread/INFO]: [LarsDeLars: Gave 1 [Diamond Sword] to LarsDeLars]
+[22:18:37] [Server thread/INFO]: LarsDeLars issued server command: /give @p minecraft:diamond_sword{Enchantments:[{id:"minecraft:looting",lvl:30},{id:"minecraft:sharpness",lvl:20}]} 1
+[22:18:37] [Server thread/INFO]: [LarsDeLars: Gave 1 [Diamond Sword] to LarsDeLars]
+[22:18:43] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:18:43] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:18:46] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:18:46] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:18:48] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:18:48] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:18:49] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:18:49] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:18:51] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:18:51] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:19:05] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:sheep
+[22:19:05] [Server thread/INFO]: [LarsDeLars: Summoned new Sheep]
+[22:19:16] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:parrot
+[22:19:16] [Server thread/INFO]: [LarsDeLars: Summoned new Parrot]
+[22:19:27] [Server thread/INFO]: LarsDeLars lost connection: Disconnected
+[22:19:27] [Server thread/INFO]: LarsDeLars left the game
