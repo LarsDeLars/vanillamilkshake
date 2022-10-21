@@ -100,7 +100,7 @@ GriefPrevention:
     NonPvPWorlds: true
   BlockLandClaimExplosions: true
   BlockSurfaceCreeperExplosions: true
-  BlockSurfaceOtherExplosions: true
+  BlockSurfaceOtherExplosions: false
   LimitSkyTrees: true
   LimitTreeGrowth: false
   PistonMovement: CLAIMS_ONLY

@@ -1,36 +1,72 @@
-[22:55:56] [ServerMain/INFO]: Building unoptimized datafixer
-[22:55:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:55:57] [ServerMain/INFO]: Loaded 7 recipes
-[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
-[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
-[22:55:57] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
-[22:55:59] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[22:55:59] [Server thread/INFO]: Loading properties
-[22:55:59] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
-[22:55:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:55:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:55:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
-[22:55:59] [Server thread/INFO]: Default game type: SURVIVAL
-[22:55:59] [Server thread/INFO]: Generating keypair
-[22:55:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:55:59] [Server thread/INFO]: Using default channel type
-[22:56:00] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[22:56:00] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[22:56:00] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18
-[22:56:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:56:00] [Server thread/INFO]: Preparing level "world"
-[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:56:01] [Server thread/INFO]: Time elapsed: 59 ms
-[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:56:01] [Server thread/INFO]: Time elapsed: 23 ms
-[22:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:56:01] [Server thread/INFO]: Time elapsed: 18 ms
-[22:56:01] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18
-[22:56:01] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[22:56:01] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[22:56:01] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[22:56:01] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[22:56:01] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[22:56:01] [Server thread/INFO]: Running delayed init tasks
-[22:56:01] [Server thread/INFO]: Done (2.049s)! For help, type "help"
-[22:56:01] [Server thread/INFO]: Timings Reset
+[23:04:50] [ServerMain/INFO]: Building unoptimized datafixer
+[23:04:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:04:52] [ServerMain/INFO]: Loaded 7 recipes
+[23:04:52] [ServerMain/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[23:04:52] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[23:04:52] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[23:04:53] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[23:04:53] [Server thread/INFO]: Loading properties
+[23:04:53] [Server thread/INFO]: This server is running Paper version git-Paper-220 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 3dcfec4)
+[23:04:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:04:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:04:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[23:04:53] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:53] [Server thread/INFO]: Generating keypair
+[23:04:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:04:53] [Server thread/INFO]: Using default channel type
+[23:04:54] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[23:04:54] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[23:04:54] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18
+[23:04:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:04:54] [Server thread/INFO]: Preparing level "world"
+[23:04:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:54] [Server thread/INFO]: Time elapsed: 51 ms
+[23:04:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:04:54] [Server thread/INFO]: Time elapsed: 16 ms
+[23:04:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:04:54] [Server thread/INFO]: Time elapsed: 23 ms
+[23:04:54] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18
+[23:04:54] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[23:04:54] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[23:04:54] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[23:04:54] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[23:04:55] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[23:04:55] [Server thread/INFO]: Running delayed init tasks
+[23:04:55] [Server thread/INFO]: Done (1.624s)! For help, type "help"
+[23:04:55] [Server thread/INFO]: Timings Reset
+[23:05:04] [User Authenticator #0/INFO]: UUID of player LarsDeLars is b4a7ca28-64f9-4d4e-bfee-453404f7523a
+[23:05:04] [Server thread/INFO]: LarsDeLars joined the game
+[23:05:04] [Server thread/INFO]: LarsDeLars[/127.0.0.1:50200] logged in with entity id 91 at ([world]-80.69999998807907, 54.672754759430426, 174.50033437992187)
+[23:05:12] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:12] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:13] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:13] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:17] [Server thread/INFO]: LarsDeLars issued server command: /claim
+[23:05:20] [Server thread/INFO]: LarsDeLars issued server command: /claim 100
+[23:05:23] [Server thread/INFO]: LarsDeLars issued server command: /claim 10
+[23:05:34] [Server thread/INFO]: LarsDeLars issued server command: /abandonallclaims confirm
+[23:05:35] [Server thread/INFO]: LarsDeLars issued server command: /claim 10
+[23:05:40] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:40] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:41] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:41] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:42] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:42] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:46] [Server thread/INFO]: LarsDeLars issued server command: /claimexplosion
+[23:05:48] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:48] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:49] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:49] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:50] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:50] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:05:51] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:05:51] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:07:03] [Server thread/INFO]: LarsDeLars issued server command: /summon minecraft:tnt
+[23:07:03] [Server thread/INFO]: [LarsDeLars: Summoned new Primed TNT]
+[23:07:05] [Server thread/INFO]: LarsDeLars issued server command: /claimexplosion
+[23:07:10] [Server thread/INFO]: LarsDeLars issued server command: /claimexplosion
+[23:07:40] [Async Chat Thread - #0/INFO]: <LarsDeLars> cunt
+[23:07:48] [Server thread/INFO]: LarsDeLars issued server command: /siege
+[23:07:54] [Server thread/INFO]: LarsDeLars issued server command: /siege
+[23:07:56] [Server thread/INFO]: LarsDeLars issued server command: /help siege
+[23:08:03] [Server thread/INFO]: LarsDeLars issued server command: /siege LarsDeLars
